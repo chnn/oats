@@ -3,6 +3,10 @@
   "version": "0.7.0",
   "description": "",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/influxdata/oats.git"
+  },
   "bin": {
     "oats": "bin/oats"
   },
